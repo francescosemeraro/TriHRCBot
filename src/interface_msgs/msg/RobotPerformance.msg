@@ -1,0 +1,5 @@
+geometry_msgs/PoseStamped object_requested_pose
+geometry_msgs/PoseStamped tool0_requested_pose
+geometry_msgs/PoseStamped tool0_achieved_pose
+float64 fraction
+bool correction_required

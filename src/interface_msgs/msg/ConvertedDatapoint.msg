@@ -1,0 +1,2 @@
+visualization_msgs/MarkerArray marker_array
+string side

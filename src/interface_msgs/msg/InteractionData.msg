@@ -1,0 +1,26 @@
+std_msgs/Header header
+geometry_msgs/Point p_right_user
+geometry_msgs/Point p_left_user
+geometry_msgs/Quaternion q_right_user
+geometry_msgs/Quaternion q_left_user
+
+geometry_msgs/Point neck_right_user
+geometry_msgs/Point shoulder_left_user
+geometry_msgs/Point elbow_left_user
+geometry_msgs/Point wrist_left_user
+geometry_msgs/Point hand_left_user
+geometry_msgs/Point handtip_left_user
+geometry_msgs/Point spine_naval_left_user
+geometry_msgs/Quaternion orientation_left_user
+
+geometry_msgs/Point neck_left_user
+geometry_msgs/Point shoulder_right_user
+geometry_msgs/Point elbow_right_user
+geometry_msgs/Point wrist_right_user
+geometry_msgs/Point hand_right_user
+geometry_msgs/Point handtip_right_user
+geometry_msgs/Point spine_naval_right_user
+geometry_msgs/Quaternion orientation_right_user
+
+int32 state
+

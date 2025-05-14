@@ -1,0 +1,4 @@
+visualization_msgs/MarkerArray skeleton
+int32 classifier_output
+int32 ground_truth
+std_msgs/Bool dnn_processed
