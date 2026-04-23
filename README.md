@@ -1,8 +1,8 @@
 # TriHRCBot: A Robotic Architecture for Triadic Human-Robot Collaboration through Mediated Object Alignment
 
-For any questions and clarifications, please contact the developer Dr. Francesco Semeraro at:
+For any questions and clarifications, please contact the developer Dr Francesco Semeraro at:
 
-francesco.semeraro@manchester.ac.uk
+francesco.semeraro@iit.it
 
 Read full paper <a href="https://ieeexplore.ieee.org/abstract/document/11128795">here</a>, Presented at ICRA 2025.
 
